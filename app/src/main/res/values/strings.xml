@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bug screen brightness</string>
+    <string name="brightness_f">Brightness: %.4f</string>
+    <string name="brightness_s">Brightness: %.4f (%s)</string>
+</resources>
